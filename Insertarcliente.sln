@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertarCliente", "EfDemo\InsertarCliente.csproj", "{D191DBE7-1085-40ED-9467-7038FBBFEA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{75E68B51-DA5A-4B5E-981C-74BEA64BCB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D191DBE7-1085-40ED-9467-7038FBBFEA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D191DBE7-1085-40ED-9467-7038FBBFEA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D191DBE7-1085-40ED-9467-7038FBBFEA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D191DBE7-1085-40ED-9467-7038FBBFEA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E68B51-DA5A-4B5E-981C-74BEA64BCB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E68B51-DA5A-4B5E-981C-74BEA64BCB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E68B51-DA5A-4B5E-981C-74BEA64BCB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E68B51-DA5A-4B5E-981C-74BEA64BCB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0834BAB3-631B-4570-88FE-55690F7204BE}
+	EndGlobalSection
+EndGlobal
